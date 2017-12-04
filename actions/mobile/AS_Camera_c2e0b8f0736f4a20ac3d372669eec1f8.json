@@ -1,0 +1,34 @@
+{
+    "AS_Camera_c2e0b8f0736f4a20ac3d372669eec1f8": {
+        "id": "AS_Camera_c2e0b8f0736f4a20ac3d372669eec1f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "buttonscreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0efbd4e94be4e72931a3f312a1478cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ca1b0f911da54a51b7ca23b6080cf88f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___j9e45973db404e6f9c5b554c54b0bb61",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "image",
+            "display": "image",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

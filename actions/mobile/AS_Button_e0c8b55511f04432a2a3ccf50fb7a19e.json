@@ -1,0 +1,28 @@
+{
+    "AS_Button_e0c8b55511f04432a2a3ccf50fb7a19e": {
+        "id": "AS_Button_e0c8b55511f04432a2a3ccf50fb7a19e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "buttonscreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0efbd4e94be4e72931a3f312a1478cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ic3f9fdbc05f44aa883e73fdf9a2ea2c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Buttonclick",
+            "display": "Buttonclick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

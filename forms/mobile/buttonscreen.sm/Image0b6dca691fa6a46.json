@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "210dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "82dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa86d0ed238e4ae48fb91784cca74c21",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "buttonscreen",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0b6dca691fa6a46",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "i0914660e172412eba987446e9cf1ad0",
+    "name": "kony.ui.Image2",
+    "parent": "buttonscreen",
+    "pf": "buttonscreen",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
